@@ -1,4 +1,6 @@
-# vue_avatar_flag
+# Vue Avatar Generator
+
+> 预览地址：http://1949.surge.sh
 
 ## Project setup
 ```
@@ -18,6 +20,11 @@ yarn build
 ### Lints and fixes files
 ```
 yarn lint
+```
+
+### Release to online
+```
+yarn release
 ```
 
 ### Customize configuration
