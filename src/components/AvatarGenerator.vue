@@ -8,7 +8,7 @@
     <label for="ct"><input type="radio" v-model="pos" :value="[1,0]" name="dir" id="ct">中上</label>
     <label for="rt"><input type="radio" v-model="pos" :value="[2,0]" name="dir" id="rt">右上</label>
     <label for="rc"><input type="radio" v-model="pos" :value="[2,1]" name="dir" id="rc">右中</label>
-    <label for="cc"><input type="radio" v-model="pos" :value="[1,1]" name="dir" id="rc">中心</label>
+    <label for="cc"><input type="radio" v-model="pos" :value="[1,1]" name="dir" id="cc">中心</label>
     <label for="rb"><input type="radio" v-model="pos" :value="[2,2]" name="dir" id="rb">右下</label>
     <label for="cb"><input type="radio" v-model="pos" :value="[1,2]" name="dir" id="cb">中下</label>
     <label for="lb"><input type="radio" v-model="pos" :value="[0,2]" name="dir" id="lb">左下</label>
